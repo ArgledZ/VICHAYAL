@@ -14,9 +14,17 @@ Public Class cls_CNApoderado
 
 
 	Public Function CN_RegistrarApoderado(CEDatos As cls_CEApoderado) As Boolean
-
 		Return objDatos.CD_RegistrarApoderado(CEDatos.APO_DNI, CEDatos.APO_NOMBRES, CEDatos.APO_APELLIDOS,
 												CEDatos.APO_TELEFONO, CEDatos.APO_CORREO, CEDatos.APO_DISTRITO,
 												CEDatos.APO_DIRECCION)
+	End Function
+	Public Function CN_ModificarApoderado(CEDatos As cls_CEApoderado) As Boolean
+		Return objDatos.CD_ModificarApoderado(CEDatos.APO_DNI, CEDatos.APO_NOMBRES, CEDatos.APO_APELLIDOS,
+												CEDatos.APO_TELEFONO, CEDatos.APO_CORREO, CEDatos.APO_DISTRITO,
+												CEDatos.APO_DIRECCION, CEDatos.APODERADO_ID)
+	End Function
+
+	Public Function CN_EliminarApoderado(ID_Apo As String) As Boolean
+		Return objDatos.CD_EliminarApoderado(ID_Apo)
 	End Function
 End Class

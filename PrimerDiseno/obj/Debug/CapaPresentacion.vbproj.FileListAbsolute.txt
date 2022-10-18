@@ -170,3 +170,34 @@ C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\Prim
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.exe
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.xml
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\PrimerDiseno.exe.config
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\PrimerDiseno.exe
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\PrimerDiseno.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\PrimerDiseno.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaDatos.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaEntidades.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaNegocio.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\FontAwesome.Sharp.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaDatos.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaDatos.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaEntidades.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaEntidades.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaNegocio.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\bin\Debug\CapaNegocio.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormPrimerDiseno.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormAgrApoderado.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormAgrEstudiante.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormApoderado.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormModApoderado.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormModEstudiante.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormPregrado.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.FormEstudiante.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.Resources.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.exe
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
