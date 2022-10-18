@@ -117,3 +117,20 @@ C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\Capa
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaNegocio\obj\Debug\CapaNegocio.xml
 C:\Users\gcamo\Desktop\Primer-Diseno\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaNegocio.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaEntidades.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaDatos.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaEntidades.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\bin\Debug\CapaEntidades.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaNegocio\obj\Debug\CapaNegocio.pdb

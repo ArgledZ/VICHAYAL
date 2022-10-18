@@ -24,13 +24,13 @@ Public Class FormModApoderado
 		objEntidades.APO_CORREO = txtModCorreo.Text
 		objEntidades.APO_DISTRITO = Me.CboModDistrito.SelectedValue()
 		'Envío a la Capa de Negocio para la inserción
-		'MsgBox(objNegocio.CN_ModificarEstudiante(objEntidades))
-		'If (objNegocio.CN_sa(objEntidades)) Then
-		'MessageBox.Show("Se Modifico correctamente")
-		'Me.Close()
-		'Else
-		'MessageBox.Show("Error al Modificar")
-		'End If
+		'MsgBox(objNegocio.CN_ModificarApoderado(objEntidades))
+		If (objNegocio.CN_ModificarApoderado(objEntidades)) Then
+			MessageBox.Show("Se Modifico correctamente")
+			Me.Close()
+		Else
+			MessageBox.Show("Error al Modificar")
+		End If
 	End Sub
 
 	Private Sub FormModApoderado_Load(sender As Object, e As EventArgs) Handles MyBase.Load

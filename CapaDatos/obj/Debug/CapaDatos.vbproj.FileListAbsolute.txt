@@ -82,3 +82,17 @@ C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debu
 C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
 C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaDatos.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaEntidades.pdb
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\bin\Debug\CapaEntidades.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.xml
+E:\TALLER DE LENGUAJES DE PROGRAMACION\VICHAYAL\CapaDatos\obj\Debug\CapaDatos.pdb

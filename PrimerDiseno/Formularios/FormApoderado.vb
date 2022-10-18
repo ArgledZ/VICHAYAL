@@ -21,7 +21,7 @@ Public Class FormApoderado
 		Me.DvgApoderado.Columns(3).Visible = False
 		Me.DvgApoderado.Columns(4).Visible = False
 		Me.DvgApoderado.Columns(5).Visible = False
-		Me.DvgApoderado.Columns(6).Visible = False
+		Me.DvgApoderado.Columns(6).Visible = True
 		Me.DvgApoderado.Columns(7).Visible = False
 		Me.DvgApoderado.Columns(8).Width = 58
 		Me.DvgApoderado.Columns(9).Width = 200
@@ -59,5 +59,25 @@ Public Class FormApoderado
 
 	Private Sub DvgApoderado_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DvgApoderado.CellContentClick
 
+	End Sub
+
+	Private Sub Eliminar()
+		If (objNegocio.CN_EliminarApoderado(DvgApoderado.CurrentRow.Cells(0).Value.ToString)) Then
+			MessageBox.Show("Eliminado Correctamente")
+			Mostrar(objNegocio.CN_BuscarApoderadoGeneral(""))
+		Else
+			MessageBox.Show("Datos no encontrados")
+		End If
+	End Sub
+
+	Private Sub btnEliminar_Click(sender As Object, e As EventArgs) Handles btnEliminar.Click
+		Dim Pregunta As String
+
+		Pregunta = MsgBox("Deseas Eliminar al Apoderado " & DvgApoderado.CurrentRow.Cells(9).Value.ToString & "?",
+						  vbYesNo + vbQuestion, "Alerta de Eliminacion")
+		If Pregunta = vbNo Then
+		Else
+			Eliminar()
+		End If
 	End Sub
 End Class
