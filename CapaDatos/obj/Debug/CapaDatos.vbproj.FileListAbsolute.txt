@@ -1,0 +1,84 @@
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Alvar\OneDrive\Documentos\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\gcamo\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\PrimerDiseno\CapaDatos\obj\Debug\CapaDatos.pdb

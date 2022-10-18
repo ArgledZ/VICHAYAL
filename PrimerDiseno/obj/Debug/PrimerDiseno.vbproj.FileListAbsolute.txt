@@ -1,0 +1,85 @@
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe.config
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.pdb
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.xml
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbprojAssemblyReference.cache
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPrimerDiseno.resources
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.Resources.resources
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.GenerateResource.cache
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CoreCompileInputs.cache
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CopyComplete
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.exe
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.xml
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPregrado.resources
+C:\Users\CWAU\source\repos\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormUSS.resources
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe.config
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.pdb
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.xml
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\FontAwesome.Sharp.dll
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbprojAssemblyReference.cache
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPrimerDiseno.resources
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPregrado.resources
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormUSS.resources
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.Resources.resources
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.GenerateResource.cache
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CoreCompileInputs.cache
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CopyComplete
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.exe
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.xml
+D:\2021\DOCENCIA\C - SEMINARIO AVANZADO I\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe.config
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\FontAwesome.Sharp.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.dll
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.pdb
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbprojAssemblyReference.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPrimerDiseno.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormAgrCliente.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPregrado.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormUSS.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.Resources.resources
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.GenerateResource.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CoreCompileInputs.cache
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CopyComplete
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.exe
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.xml
+D:\2021\DOCENCIA\TALLER DE LENGUAJES PROG\Sesion 03\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe.config
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.exe
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\PrimerDiseno.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.dll
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaEntidades.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaNegocio.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.pdb
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\bin\Debug\CapaDatos.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.AssemblyReference.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPrimerDiseno.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormAgrCliente.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormPregrado.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.FormUSS.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.Resources.resources
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.GenerateResource.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.vbproj.CopyComplete
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.exe
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.xml
+C:\Users\Alvar\Desktop\PrimerDiseno\PrimerDiseno\obj\Debug\PrimerDiseno.pdb
